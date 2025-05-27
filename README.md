@@ -32,27 +32,6 @@
   <h2>💡 Projetos em Destaque</h2>
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
     
-    <a href="" target="_blank" style="text-decoration: none; color: inherit;">
-      <img src="https://via.placeholder.com/400x200?text=Projeto+Site+Im%C3%B3veis" alt="Thumbnail Projeto Site de Imóveis" width="400">
-      <h3>Plataforma de Imóveis (Remix.run)</h3>
-      <p>Desenvolvimento de um site moderno e responsivo para meu negócio de corretagem, utilizando Remix.run, React e Tailwind CSS. Foco em UX e performance para uma experiência de busca de imóveis intuitiva e eficiente.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Remix-000000?style=flat&logo=remix&logoColor=white" alt="Remix Badge">
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React Badge">
-        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind CSS Badge">
-      </p>
-    </a>
-
-    <a href="" target="_blank" style="text-decoration: none; color: inherit;">
-      <img src="https://via.placeholder.com/400x200?text=Projeto+Sistema+Im%C3%B3veis+C%2B%2B" alt="Thumbnail Projeto Sistema de Imóveis C++" width="400">
-      <h3>Sistema de Gerenciamento de Imóveis (C++)</h3>
-      <p>Um projeto em C++ para construir um robusto sistema de gerenciamento de imóveis via linha de comando (CLI). Foco em POO, estruturas de dados (árvores, tabelas hash) e manipulação de arquivos para otimização de dados e aprendizado de baixo nível.</p>
-      <p>
-        <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++ Badge">
-        <img src="https://img.shields.io/badge/Data_Structures-orange?style=flat" alt="Data Structures Badge">
-        <img src="https://img.shields.io/badge/CLI-lightgrey?style=flat" alt="CLI Badge">
-      </p>
-    </a>
 
   </div>
   <br>
