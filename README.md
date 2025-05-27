@@ -36,17 +36,9 @@
 
   <h2>🤝 Vamos Conectar!</h2>
   <p>Tenho paixão por aprender e por novas conexões. Sinta-se à vontade para entrar em contato!</p>
-  <p>
-    <a href="https://www.instagram.com/glfcorretor.com.br/" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-    </a>
-    <a href="https://api.whatsapp.com/send?phone=SEU_NUMERO_WHATSAPP" target="_blank">
-      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
-    </a>
-    <a href="mailto:SEU_EMAIL@EXEMPLO.COM" target="_blank">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-    </a>
-    </p>
+
+
+   
   <br>
 
   <p>
