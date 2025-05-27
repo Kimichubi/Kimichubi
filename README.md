@@ -29,11 +29,7 @@
 
   ---
 
-  <h2>💡 Projetos em Destaque</h2>
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-    
 
-  </div>
   <br>
 
   ---
