@@ -1,52 +1,40 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/Kimichubi?v=4" width="150px;" alt="Sua Foto de Perfil no GitHub">
-  <br>
-  <h1>Olá, eu sou o Kimichubi! 👋</h1>
-  <h3>Seja bem-vindo ao meu espaço de código no GitHub.</h3>
-  <br>
-  <p>
-    Sou **Kimichubi**, um entusiasta da tecnologia com paixão por **programação**.
-  </p>
-  <br>
 
-  ---
+<img src="https://avatars.githubusercontent.com/u/Kimichubi?v=4" width="150px" />
 
-  <h2>🚀 Minhas Habilidades Técnicas</h2>
-  <p>Estou em constante aprendizado e aprimoramento. Minhas ferramentas e linguagens favoritas incluem:</p>
-  <p>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
-    <img src="https://img.shields.io/badge/Remix-000000?style=for-the-badge&logo=remix&logoColor=white" alt="Remix">
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">
-  </p>
-  <br>
+# Gabriel Ferreira
 
-  ---
+### Software Engineer • Backend Specialist
 
+Curitiba, Brazil
 
-  <br>
+Backend Engineer focado em **arquitetura escalável, performance de APIs e microsserviços**.
 
-  ---
+Experiência prática em **Node.js, NestJS e sistemas de alto volume**, com histórico de otimização de performance, refatoração de sistemas legados e construção de integrações críticas com grandes plataformas de e-commerce.
 
-  <h2>🤝 Vamos Conectar!</h2>
-  <p>Tenho paixão por aprender e por novas conexões. Sinta-se à vontade para entrar em contato!</p>
-
-
-   
-  <br>
-
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kimichubi&layout=compact&hide_title=true&bg_color=0d1117&text_color=9f7aea&title_color=9f7aea&hide_border=true" alt="Top Languages">
-    <img src="https://github-readme-stats.vercel.app/api?username=Kimichubi&show_icons=true&theme=dark&hide_title=true&bg_color=0d1117&text_color=9f7aea&title_color=9f7aea&hide_border=true" alt="GitHub Stats">
-  </p>
 </div>
-<!---
-Kimichubi/Kimichubi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+---
+
+# Sobre mim
+
+Sou engenheiro de software com forte foco em **backend engineering e arquitetura de sistemas**.
+
+Minha experiência envolve construção de **APIs de alta performance**, **microsserviços escaláveis** e **infraestrutura moderna em cloud**.
+
+Tenho interesse especial em:
+
+- arquitetura de software
+- sistemas distribuídos
+- otimização de banco de dados
+- performance de APIs
+- observabilidade
+- engenharia de plataforma
+
+Atualmente trabalho com desenvolvimento de soluções backend robustas e integrações complexas entre plataformas.
+
+---
+
+# Tech Stack
+
+### Backend
