@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/SEU_USUARIO_GITHUB?v=4" width="150px;" alt="Sua Foto de Perfil no GitHub">
+  <img src="https://avatars.githubusercontent.com/u/Kimichubi?v=4" width="150px;" alt="Sua Foto de Perfil no GitHub">
   <br>
   <h1>Olá, eu sou o Kimichubi! 👋</h1>
   <h3>Seja bem-vindo ao meu espaço de código no GitHub.</h3>
@@ -42,8 +42,8 @@
   <br>
 
   <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&hide_title=true&bg_color=0d1117&text_color=9f7aea&title_color=9f7aea&hide_border=true" alt="Top Languages">
-    <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=dark&hide_title=true&bg_color=0d1117&text_color=9f7aea&title_color=9f7aea&hide_border=true" alt="GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kimichubi&layout=compact&hide_title=true&bg_color=0d1117&text_color=9f7aea&title_color=9f7aea&hide_border=true" alt="Top Languages">
+    <img src="https://github-readme-stats.vercel.app/api?username=Kimichubi&show_icons=true&theme=dark&hide_title=true&bg_color=0d1117&text_color=9f7aea&title_color=9f7aea&hide_border=true" alt="GitHub Stats">
   </p>
 </div>
 <!---
